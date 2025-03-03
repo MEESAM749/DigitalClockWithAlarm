@@ -22,6 +22,11 @@ circuit in Proteus. We used readily available logic gate ICs, timer ICs like the
 1x 1k TrimPot  
 1x 9V Voltage Source  
 
+# What we implemented?
+We implemented the basic clock, the alarm module and the time zone.:  
+![image](https://github.com/user-attachments/assets/bb6ae577-14e5-4afa-8baf-dd4713234229)
+
+
 # How to do all this?
 This is a very large project and it is as hectic as you can imagine. So look into the shecmatic where each module separately shown.  
 Also since each module is independent of eachother, you can simply build the parts you want to build rather than building this whole thing.  
