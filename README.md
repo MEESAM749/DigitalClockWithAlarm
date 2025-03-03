@@ -1,5 +1,5 @@
 # DigitalClockWithAlarm
-This was our semester project for the course "Digital Logic Design". We build a digital clock on breadboards while we first designed the entire  
+This was our semester project for the course "Digital Logic Design". We built a digital clock on breadboards while we first designed the entire  
 circuit in Proteus. We used readily available logic gate ICs, timer ICs like the 555 and counter ICs. The details of the required hardware are given below:
 
 # Components Required:
