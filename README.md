@@ -25,6 +25,9 @@ circuit in Proteus. We used readily available logic gate ICs, timer ICs like the
 # How to do all this?
 This is a very large project and it is as hectic as you can imagine. So look into the shecmatic where each module separately shown.
 Also since each module is independent of eachother, you can simply build the parts you want to build rather than building this whole thing.
+Just look at the Sections below and decide which ones you want to implement. I have also included an SVG file if you don't like the clumsiness of proteus's own spanning around the circuit.
+<img width="917" alt="Sections" src="https://github.com/user-attachments/assets/ac47cd9d-d098-4e0f-90a1-cf859984fe19" />
+
 
 # License
 This falls under the MIT License, look into the license file for more details.
